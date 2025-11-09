@@ -1,0 +1,2 @@
+C:\Users\Maddie\source\repos\HadesIISpriteExtractor\output")
+C:\Users\Maddie\source\repos\HadesIISpriteExtractor\pkg_test")
