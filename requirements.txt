@@ -1,5 +1,5 @@
 cffi==2.0.0
-deppth @ file:///C:/Users/Maddie/Documents/deppth-0.1.1.0-py3-none-any.whl#sha256=37627f3f9edbc57b4fc7134a093de4b5fa3405c3070045d2594376e50f83ded3
+deppth @ file:./deppth-0.1.1.0-py3-none-any.whl
 lz4==4.4.5
 lzf==0.1
 pillow==12.0.0
